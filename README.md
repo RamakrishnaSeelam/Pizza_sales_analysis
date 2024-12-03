@@ -1,2 +1,2 @@
-# Pizza_sales_analysis
-This project analyzes pizza sales data to identify the top-selling and most profitable pizzas each month. It calculates total quantity sold and profit, using a 40% cost margin. Pie charts visualize the sales and profit distribution by pizza type, helping businesses optimize menu offerings and pricing for better decision-making.
+**PIZZA_SALES_ANALYSIS**
+This pizza sales project analyzes transaction data to uncover key insights into sales performance. It examines metrics such as popular pizza types, customer preferences, and peak sales periods. The project features interactive visualizations and data-driven reports, helping businesses optimize their offerings and make strategic decisions to boost revenue and customer satisfaction.
